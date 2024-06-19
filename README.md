@@ -36,7 +36,7 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
      
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_count.png"  width="100%" height="100%"></img>
 
-每种模型组合的对战次数。模型的匹配，总体上具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
+    每种模型组合的对战次数。模型的匹配，总体上具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
 
 
 ## 两两对战胜率
@@ -49,6 +49,7 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
      
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_winrate.png"  width="100%" height="100%"></img>
 
+
 ## Elo评级系统
    
     介绍一下Elo的原理
@@ -56,12 +57,16 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
     Elo评级系统适用于我们的案例，因为我们有多个模型，并且我们在它们之间进行对战。如果玩家A的评分为Ra，玩家B的评分为Rb，
     
     则玩家A获胜概率的确切公式为：
+    
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/elo_gongshi.png"  width="80%" height="80%"></img>
 
     根据投票数据，通过Elo评分机制计算并展示参赛模型的排名。
+    
 <img width="1216" alt="image" src="https://github.com/CLUEbenchmark/SuperCLUElyb/assets/8592144/0b595d65-46b0-422a-bf4d-472826623d34">
 
+
 ## 后续计划
+
     我们的后续工作如下：
     1）新增一些模型，扩大国内外模型的覆盖面
     2）在限定范围内公布投票数据，以及进一步的数据分析情况
