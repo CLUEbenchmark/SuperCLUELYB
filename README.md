@@ -36,7 +36,7 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
      
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_count.png"  width="100%" height="100%"></img>
 
-图2：每种模型组合的对战次数。模型的匹配，总体上具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
+每种模型组合的对战次数。模型的匹配，总体上具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
 
 
 ## 两两对战胜率
