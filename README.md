@@ -14,7 +14,7 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 
 最新排名及数据见：https://www.langyb.com
 
-<img width="1214" alt="image" src="https://github.com/CLUEbenchmark/SuperCLUElyb/assets/8592144/d991ee89-07d5-445b-8060-a58a7f8c6000">
+<img width="1214" alt="image" src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle.png">
     
 图片1：展示一对一投票的场景，确保参赛模型在匿名对抗中的公平性和隐私性。
 
