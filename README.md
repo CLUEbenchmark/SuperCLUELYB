@@ -6,7 +6,6 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 - [介绍Introduction](#介绍Introduction)
 - [数据搜集DataCollection](#数据收集DataCollection)
 - [两两对战胜率](#两两对战胜率)
-- [中文模型初步评价](#中文模型初步评价)
 - [Elo评级系统](#Elo评级系统)
 - [后续计划](#后续计划)
 - [加入我们](#加入我们)
@@ -54,16 +53,13 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_count.png"  width="100%" height="100%"></img>
 图2：每种模型组合的对战次数。模型的匹配，总体上具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
 
+
 ## 两两对战胜率
         
      作为校准的基础，我们在这里还展示了对战中每个模型的成对获胜率。
    <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_winrate.png"  width="100%" height="100%"></img>
 图3: 模型A在所有非平局的A对B战斗中获胜的分数。
 
-   
-## 中文模型初步评价
-
-    TODO 
 
 ## Elo评级系统
    
