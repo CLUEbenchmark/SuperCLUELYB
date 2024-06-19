@@ -13,17 +13,16 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 - [链接](#链接)
 
 
-更新7月07日：最新排名及数据见：<a href='https://www.superclueai.com/'>琅琊榜-202307</a>
+最新排名及数据见：https://www.langyb.com
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/supercluelyb_rank.png"  width="100%" height="100%"></img>
-
-   表格1：基于5.8K投票数据，使用Elo机制获得的16个模型的排名。你可以在<a href='https://www.superclueai.com'>琅琊榜</a>上查看
-
-
-<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle.png"  width="100%" height="100%"></img>
+<img width="1214" alt="image" src="https://github.com/CLUEbenchmark/SuperCLUElyb/assets/8592144/d991ee89-07d5-445b-8060-a58a7f8c6000">
     
-   图片1：一对一的投票
+图片1：展示一对一投票的场景，确保参赛模型在匿名对抗中的公平性和隐私性。
 
+
+<img width="1216" alt="image" src="https://github.com/CLUEbenchmark/SuperCLUElyb/assets/8592144/0b595d65-46b0-422a-bf4d-472826623d34">
+
+表格1：根据投票数据，通过Elo评分机制计算并展示参赛模型的排名。
 
 
 ## 介绍Introduction
